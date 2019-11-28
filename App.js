@@ -24,7 +24,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-const App: () => React$Node = () => {
+/* const App: () => React$Node = () => {
   return (
     <>
       <StatusBar barStyle="dark-content" />
@@ -109,6 +109,14 @@ const styles = StyleSheet.create({
     paddingRight: 12,
     textAlign: 'right',
   },
-});
+}); */
 
-export default App;
+import Login from './src/componentes/interfaces/login';
+
+export default class App extends Component {
+  render() {
+    return (
+     <Login/>
+    );
+  }
+};

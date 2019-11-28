@@ -14,7 +14,7 @@ const Login = (props) => {
     const {
         miOnChangeDeUSuario,
         miOnChangeDeContraseña,
-        cambiarInterfaz,
+        miOnPressBoton,
         usuario,
         contraseña,
     } = props;
@@ -43,7 +43,7 @@ const Login = (props) => {
                         <Button
                             title={'Iniciar Sesion'}
                             color='blue'
-                            onPress={cambiarInterfaz}
+                            onPress={miOnPressBoton}
                         />
                     </View>
                     <View style={styles.touch}>
