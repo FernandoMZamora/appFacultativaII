@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919809238960",
+    "firebase_url": "https://ulengreact.firebaseio.com",
+    "project_id": "ulengreact",
+    "storage_bucket": "ulengreact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919809238960:android:d6ae3ef2a7a2622da85875",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919809238960-ugtlammorkor67ug2adg8ngtnvm08h7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjoRtYCXZ-qSZCH3rYGhUcQod7ENvvbZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919809238960-ugtlammorkor67ug2adg8ngtnvm08h7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
